@@ -1,0 +1,17 @@
+.recipeImage {
+position: relative;
+flex: auto;
+height: 100px;
+width: 100px;
+
+}
+
+.recipeImage:hover {
+  border-radius: 20%;
+}
+h1{
+  color: red;
+}
+body {
+background-color: gray;
+}
