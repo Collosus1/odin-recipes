@@ -1,6 +1,6 @@
 .recipeImage {
 position: relative;
-flex: auto;
+align-items: center;
 height: 100px;
 width: 100px;
 
@@ -9,9 +9,11 @@ width: 100px;
 .recipeImage:hover {
   border-radius: 20%;
 }
+
 h1{
-  color: red;
+  text-decoration: underline;
 }
+
 body {
 background-color: gray;
 }
